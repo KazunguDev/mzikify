@@ -10,6 +10,4 @@ Mzikify is web-based personal audio streaming service written in Vue at the clie
 
 ![Screenshot 2023-09-17 113327](https://github.com/KazunguDev/mzikify/assets/88532016/7698a420-bc9b-48f7-9935-e2e6fdbac25a)
 
-![Uploading Screenshot 2023-09-17 113345.png…]()
-
-(https://github.com/KazunguDev/mzikify/assets/88532016/fa6ac19f-fbf4-46eb-a190-29eff4cc7ebb)
+![Screenshot 2023-09-17 113345](https://github.com/KazunguDev/mzikify/assets/88532016/7239980d-da59-434a-8c7f-85dc9f7e8cfc)
